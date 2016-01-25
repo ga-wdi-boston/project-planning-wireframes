@@ -14,6 +14,7 @@ A **wireframe** is an image that sketches out the layout of major pieces of cont
 
 Although making detailed, feature-rich wireframes is typically the province of the UX/UI designer, even developers can produce basic layout sketches, and these sketches are extremely useful in the planning process as a tool to clarify and codify your vision. They also segue easily into the box model, which we explored earlier today.
 
+### Wireframing in WDI
 Within the scope of this course, we will not be expecting you to produce designer-level wireframes; however, we _will_ be expecting you to produce low-fidelity sketches for your projects. A good sketch is simple, but just complex enough to convey the gist of the page. It may feature minimal text, or interactive features like drop-down menus and pop-ups/modals. Below are some examples of sketches that have been submitted by students in previous cohorts. Some are high fidelity and some are lower; some were drawn by hand and some were drawn using design tools like Balsamiq; however, all of the following would be considered acceptable as far as WDI projects are concerned.
 
 [Compact](images/compact.png)
