@@ -46,7 +46,7 @@ Individually, pick one of the eight following sites and draw a basic sketch for 
 ### Resources
 
 * [Wirify](http://www.wirify.com/), a tool that draws up rudimentary wireframes for existing sites.
-* [Balsamiq](), a sketching tool for making high-fidelity wireframes
+* [Balsamiq](https://balsamiq.com/), a sketching tool for making high-fidelity wireframes
 
 [License](LICENSE)
 ------------------
