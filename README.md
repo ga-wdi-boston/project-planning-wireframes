@@ -36,7 +36,8 @@ Below are some examples of sketches submitted in previous cohorts. Some are high
 [Timeline](images/timeline.png)
 
 [Art City](https://github.com/breduffy/ArtCity_app/blob/master/z_Mockups/Project%202_Art_City_Mockups.pdf)
-(This last one is extremely far on the high-fidelity end of the spectrum.)
+
+> The last one is pretty high-fidelity, and is the kind of wireframe you'd typically see from a designer; that is not our expectation from you in WDI.
 
 #### Lab :: Sketching and Wireframing
 Individually, pick one of the eight following sites and draw a basic sketch for the site on a patch of whiteboard. Focus on capturing the key elements of layout for the page, but **DO NOT INCLUDE ANY TEXT**. When you're finished, rotate within your squads, and see if you can identify your teammate's site by their sketch.
