@@ -4,7 +4,7 @@
 - None
 
 ## Objectives
-- Draw simple wireframes to mock up a front-end page.
+- Draw simple wireframes to mock up a web page.
 
 ## Sketching and Wireframing
 ### What is a wireframe?
