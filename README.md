@@ -7,7 +7,9 @@
 - Draw simple wireframes to mock up a web page.
 
 ## Sketching and Wireframing
-### What is a wireframe?
+
+### What Is a Wireframe?
+
 A **wireframe** is an image that sketches out the layout of major pieces of content within a page, without all of the fully-rendered detail that might be present in an illustration.
 
 ![Example Wireframe](images/220px-Profilewireframe.png)
@@ -15,6 +17,7 @@ A **wireframe** is an image that sketches out the layout of major pieces of cont
 Although making detailed, feature-rich wireframes is typically the province of the UX/UI designer, even developers can produce basic layout sketches, and these sketches are extremely useful in the planning process as a tool to clarify and codify your vision. They also segue easily into the box model, which we explored earlier today.
 
 ### Wireframing in WDI
+
 Within the scope of this course, we will not be expecting you to produce designer-level wireframes; however, we _will_ expect you to produce low-fidelity sketches for your projects. A low-fidelity wireframe or sketch is simple -- just complex enough to convey the gist of the page -- and may feature minimal text, placeholders for images, or skeletons of interactive features like drop-down menus and pop-ups or modals.
 
 It should usually not concern itself with things like:
@@ -39,7 +42,8 @@ Below are some examples of sketches submitted in previous cohorts. Some are high
 
 > The last one is pretty high-fidelity, and is the kind of wireframe you'd typically see from a designer; that is not our expectation from you in WDI.
 
-#### Lab : Sketching and Wireframing
+#### Lab
+
 Individually, pick one of the eight following sites and draw a basic sketch for the site on a patch of whiteboard. Focus on capturing the key elements of layout for the page, but **DO NOT INCLUDE ANY REAL TEXT**. When you're finished, rotate within your squads (A->B, B->C, etc.) and see if you can identify your teammate's site using only their sketch. Then, take a few minutes and give each other feedback on the sketches, specifically pointing out aspects that were more clear or less clear.
 
 * [Wikipedia](https://en.wikipedia.org)
