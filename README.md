@@ -14,7 +14,7 @@ A **wireframe** is an image that sketches out the layout of major pieces of cont
 
 ![Example Wireframe](images/220px-Profilewireframe.png)
 
-Although making detailed, feature-rich wireframes is typically the province of the UX/UI designer, even developers can produce basic layout sketches, and these sketches are extremely useful in the planning process as a tool to clarify and codify your vision. They also segue easily into the box model, which we explored earlier today.
+Although making detailed, feature-rich wireframes is typically the province of the UX/UI designer, even developers can produce basic layout sketches, and these sketches are extremely useful in the planning process as a tool to clarify and codify your vision. They also segue easily into mocking up a site with boxes, so that you know how to actually build your layout.
 
 ### Wireframing in WDI
 
