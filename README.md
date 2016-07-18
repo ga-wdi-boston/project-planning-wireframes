@@ -59,8 +59,9 @@ Individually, pick one of the eight following sites and draw a basic sketch for 
 
 ### Resources
 
-* [Wirify](http://www.wirify.com/), a tool that draws up rudimentary wireframes for existing sites.
+* [Moqups](https://moqups.com/), a mostly-free drag and drop wireframing web app
 * [Balsamiq](https://balsamiq.com/), a sketching tool for making high-fidelity wireframes
+* [Wirify](http://www.wirify.com/), a tool that draws up rudimentary wireframes for existing sites.
 
 [License](LICENSE)
 ------------------
