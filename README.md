@@ -40,7 +40,7 @@ Below are some examples of sketches submitted in previous cohorts. Some are high
 
 [Art City](https://github.com/breduffy/ArtCity_app/blob/master/z_Mockups/Project%202_Art_City_Mockups.pdf)
 
-> The last one is pretty high-fidelity, and is the kind of wireframe you'd typically see from a designer; that is not our expectation from you in WDI.
+> The last one is the kind of wireframe you'd typically see from a designer; that is not our expectation from you in WDI.
 
 In general, since hand-drawn wireframes are easier to iterate on and maintain than computer-drawn ones, we recommend that in the scope of this course, you do all your wireframing by hand.
 
