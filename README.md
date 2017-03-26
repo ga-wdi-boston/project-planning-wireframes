@@ -5,6 +5,7 @@
 
 ## Objectives
 -   Draw simple wireframes to mock up a web page.
+-   Contrast wireframes with mockups.
 
 ## Sketching and Wireframing
 
@@ -15,6 +16,30 @@ A **wireframe** is an image that sketches out the layout of major pieces of cont
 ![Example Wireframe](images/220px-Profilewireframe.png)
 
 Although making detailed, feature-rich wireframes is typically the province of the UX/UI designer, even developers can produce basic layout sketches, and these sketches are extremely useful in the planning process as a tool to clarify and codify your vision. They also segue easily into mocking up a site with boxes, so that you know how to actually build your layout.
+
+### Wireframes vs Mockups
+Wireframes and mockups are  ways to visualize an application.  They differ in the the "degree" of fidelity.  Wireframes are lower fidelity, often using placeholders for content, no colors, no fonts, and no assets.  Mockups are are higher fidelity, often utilizing colors, typography, images, and other assets.
+
+**Low-fidelity:**
+- wireframes (paper or marker)
+- wireframes (digital)
+
+| Pros  |  Cons  |
+| ------|----|
+| speed | uninspring |
+| easy to change | vague |
+| inexpensive | feel incomplete |
+| skeleton of application | lack of guidance |
+
+**High-fidelity:**
+- mockups (no interactions)
+- mockups (interactivity)
+
+| Pros  |  Cons  |
+| ------|----|
+| stakeholder language | more time |
+| more inspiring | harder to change  |
+| user's perspective | more costly |
 
 ### Wireframing in WDI
 
